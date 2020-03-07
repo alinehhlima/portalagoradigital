@@ -1,0 +1,2383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salient\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-14 17:10+0000\n"
+"PO-Revision-Date: 2019-02-22 20:30+0000\n"
+"Last-Translator: Aline Lima <aline@portalagoradigital.com.br>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: nectar/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr "Para:"
+
+#: comments.php:27 includes/post-templates/entry-aside.php:116
+#: includes/post-templates/entry-video.php:604
+#: includes/post-templates/entry-gallery.php:521
+#: includes/post-templates/entry-audio.php:570
+#: includes/post-templates/entry.php:563
+#: includes/post-templates/entry-image.php:315
+#: nectar/helpers/page-header.php:298 nectar/helpers/page-header.php:311
+#: includes/partials/single-post/post-meta-bar-ascend-skin.php:36
+#: includes/partials/single-post/post-header-no-img-regular.php:81
+#: includes/partials/single-post/post-header-no-img-regular.php:91
+#: includes/partials/single-post/post-header-no-img-fullscreen.php:114
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: includes/custom-widgets/recent-posts-extra-widget.php:169
+msgid "(at most 15)"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:68
+msgid "12px"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:69
+msgid "16px"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:70
+msgid "20px"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:66
+msgid "4px"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:67
+msgid "8px"
+msgstr ""
+
+#: nectar/helpers/redux-salient.php:86
+msgid ""
+"A note for users importing demos on an existing WordPress install: When the "
+"option is selected to import \"Theme option settings\", your current theme "
+"options will be overwritten."
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:51
+#: includes/partials/single-post/author-bio.php:37
+#: includes/partials/single-post/author-bio-ascend-skin.php:37
+msgid "About"
+msgstr "Sobre"
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:102
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:493
+msgid "Activate"
+msgstr "Ativo"
+
+#: nectar/meta/page-meta.php:52
+msgid "Activate Fullscreen Rows"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:98
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:494
+msgid "Activated"
+msgstr "Ativado"
+
+#: nectar/meta/meta-config.php:113
+msgid "Add Media"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:30
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:105
+msgid "Add New Project Attribute"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:81
+msgid "Add New Project Category"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:34 nectar/helpers/home-slider.php:35
+msgid "Add New Slide"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:63
+msgid "Add New Slider Location"
+msgstr ""
+
+#: nectar/meta/page-meta.php:94
+msgid "Add Row Anchors to URL"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:61
+msgid "Add texture overlay to background"
+msgstr ""
+
+#: template-portfolio.php:125 template-portfolio.php:128
+#: includes/custom-widgets/recent-posts-extra-widget.php:146
+#: includes/custom-widgets/recent-posts-extra-widget.php:146
+#: nectar/helpers/page-header.php:392 nectar/helpers/page-header.php:592
+#: nectar/helpers/wpbakery-init.php:50
+msgid "All"
+msgstr "Tudo"
+
+#: taxonomy-project-type.php:1206 taxonomy-project-type.php:1229
+#: template-portfolio.php:1530 template-portfolio.php:1552
+#: taxonomy-project-attributes.php:960 taxonomy-project-attributes.php:983
+#: nectar/helpers/pagination.php:170 nectar/helpers/pagination.php:189
+msgid "All items loaded"
+msgstr ""
+
+#: nectar/helpers/page-header.php:616
+msgid "All Posts By"
+msgstr "Todos os posts por"
+
+#: nectar/helpers/portfolio.php:101
+msgid "All Project Attributes"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:77
+msgid "All Project Categories"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:60
+msgid "All Slider Locations"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:30 nectar/helpers/home-slider.php:31
+msgid "All Slides"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:178
+msgid "All Time"
+msgstr ""
+
+#. Description of the theme
+msgid "An Ultra Responsive Multi-Purpose Theme."
+msgstr ""
+
+#: nectar/meta/page-meta.php:63
+msgid "Animation Bewteen Rows"
+msgstr ""
+
+#: nectar/meta/page-meta.php:75
+msgid "Animation Speed"
+msgstr ""
+
+#: nectar/helpers/page-header.php:646
+msgid "Archives"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:491
+msgid "Are you sure you want to install this plugin?"
+msgstr ""
+
+#: nectar/meta/post-meta.php:183
+msgid "Audio Settings"
+msgstr ""
+
+#: includes/partials/single-post/author-bio.php:37
+#: includes/partials/single-post/author-bio-ascend-skin.php:37
+msgid "Author"
+msgstr "Autor"
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:53
+msgid "Auto Masonry: Meta Overlaid Spaced"
+msgstr ""
+
+#: includes/partials/footer/off-canvas-navigation.php:68
+msgid "Back"
+msgstr "Voltar"
+
+#: 404.php:52
+msgid "Back Home"
+msgstr "Voltar para home"
+
+#: nectar/helpers/portfolio.php:247
+msgid "Back to all projects"
+msgstr "Voltar para Todos os Projetos"
+
+#: template-home-1.php:84 template-home-2.php:85 template-home-4.php:86
+#: template-home-3.php:87
+msgid "Back to Video"
+msgstr "Voltar para o vídeo"
+
+#: nectar/meta/portfolio-meta.php:453 nectar/meta/post-meta.php:298
+#: nectar/meta/nectar-slider-meta.php:70 nectar/meta/page-meta.php:340
+msgid "Background Alignment"
+msgstr ""
+
+#: nectar/meta/post-meta.php:248
+msgid "Background Overlay"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:149
+msgid "Background Overlay Color"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:384 nectar/meta/nectar-slider-meta.php:15
+#: nectar/meta/page-meta.php:184
+msgid "Background Type"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:52
+msgid "Blog"
+msgstr ""
+
+#: search.php:87 nectar/assets/functions/ajax-search/wp-search-suggest.php:70
+msgid "Blog Post"
+msgstr ""
+
+#: nectar/meta/post-meta.php:255
+msgid "Bottom Shadow"
+msgstr ""
+
+#: nectar/meta/page-meta.php:252
+msgid "Box Roll Header"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:403 nectar/meta/nectar-slider-meta.php:41
+#: nectar/meta/page-meta.php:215
+msgid ""
+"Browse for your mp4 video file here. See the note above for recommendations "
+"on how to properly use your video background."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:410 nectar/meta/page-meta.php:222
+msgid ""
+"Browse for your OGV video file here. See the note above for recommendations "
+"on how to properly use your video background."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:48
+msgid ""
+"Browse for your OGV video file here.<br/>  See the note above for "
+"recommendations on how to properly use your video background."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:34
+msgid ""
+"Browse for your WebM video file here. This will be automatically played on "
+"load so make sure to use this responsibly for enhancing your design, rather "
+"than annoy your user. e.g. A video loop with no sound. You must include this "
+"format & the mp4 format to render your video with cross browser "
+"compatibility. OGV is optional. Video must be in a 16:9 aspect ratio."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:396 nectar/meta/page-meta.php:208
+msgid ""
+"Browse for your WebM video file here. This will be automatically played on "
+"load so make sure to use this responsibly for enhancing your design. You "
+"must include this format & the mp4 format to render your video with cross "
+"browser compatibility. OGV is optional. Video must be in a 16:9 aspect ratio."
+msgstr ""
+
+#: nectar/helpers/nav-menus.php:188
+msgid "Button Accent Color"
+msgstr ""
+
+#: nectar/helpers/nav-menus.php:190
+msgid "Button Bordered Accent Color"
+msgstr ""
+
+#: nectar/helpers/nav-menus.php:191
+msgid "Button Bordered Extra Color #1"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:204
+#: nectar/meta/nectar-slider-meta.php:253
+msgid "Button Color"
+msgstr ""
+
+#: nectar/helpers/nav-menus.php:189
+msgid "Button Extra Color #1"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:182
+#: nectar/meta/nectar-slider-meta.php:231 nectar/meta/home-slider-meta.php:35
+msgid "Button Link"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:190
+#: nectar/meta/nectar-slider-meta.php:239
+msgid "Button Style"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:174
+#: nectar/meta/nectar-slider-meta.php:223 nectar/meta/home-slider-meta.php:28
+msgid "Button Text"
+msgstr ""
+
+#: includes/post-templates/entry-aside.php:115
+#: includes/post-templates/entry-video.php:603
+#: includes/post-templates/entry-gallery.php:520
+#: includes/post-templates/entry-audio.php:569
+#: includes/post-templates/entry.php:559
+#: includes/post-templates/entry-image.php:314
+#: nectar/helpers/page-header.php:287
+#: includes/partials/single-post/post-header-no-img-regular.php:67
+msgid "By"
+msgstr "Por"
+
+#: nectar/meta/page-meta.php:307
+#, php-format
+msgid ""
+"By default there's a 50% chance on autorotation that your particles will "
+"explode. Checking this box disables that."
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:53
+msgid "Call To Action"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:144
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: comments.php:62
+msgid "Cancel Reply"
+msgstr "Cancelar resposta"
+
+#: nectar/meta/nectar-slider-meta.php:102 nectar/meta/home-slider-meta.php:21
+#: nectar/helpers/nectar-slider.php:220 nectar/helpers/nectar-slider.php:272
+#: nectar/helpers/home-slider.php:147 nectar/helpers/home-slider.php:184
+msgid "Caption"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:109
+msgid "Caption Background"
+msgstr ""
+
+#: nectar/helpers/page-header.php:621
+msgid "Category"
+msgstr "Categoria"
+
+#: nectar/meta/category-meta.php:47
+msgid "Category Color"
+msgstr ""
+
+#: nectar/meta/category-meta.php:33 nectar/meta/category-meta.php:130
+msgid "Category Header Image"
+msgstr ""
+
+#: nectar/meta/category-meta.php:20
+msgid "Category Thumbnail Image"
+msgstr ""
+
+#: includes/custom-widgets/recent-posts-extra-widget.php:143
+msgid "Category:"
+msgstr "Categoria:"
+
+#: includes/custom-widgets/recent-projects-widget.php:155
+msgid "Change in increments of 3 (at most 9)"
+msgstr ""
+
+#: nectar/meta/page-meta.php:102
+msgid ""
+"Check this to disable the page full screen rows when viewing on a mobile "
+"device."
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_horizontal_list_item.php:259
+#: nectar/nectar-vc-addons/nectar_maps/flip-box.php:118
+#: nectar/nectar-vc-addons/nectar_maps/tabbed_section.php:108
+#: nectar/nectar-vc-addons/nectar_maps/testimonial_slider.php:49
+#: nectar/nectar-vc-addons/nectar_maps/testimonial_slider.php:66
+#: nectar/nectar-vc-addons/nectar_maps/recent_posts.php:194
+#: nectar/nectar-vc-addons/nectar_maps/bar.php:45
+#: nectar/nectar-vc-addons/nectar_maps/fancy_box.php:144
+#: nectar/nectar-vc-addons/nectar_maps/milestone.php:86
+#: nectar/nectar-vc-addons/nectar_maps/fancy-ul.php:885
+#: nectar/nectar-vc-addons/nectar_maps/nectar_btn.php:78
+#: nectar/nectar-vc-addons/nectar_maps/nectar_btn.php:97
+#: nectar/nectar-vc-addons/nectar_maps/team_member.php:187
+#: nectar/nectar-vc-addons/nectar_maps/fancy-title.php:50
+#: nectar/nectar-vc-addons/nectar_maps/text-with-icon.php:883
+#: nectar/nectar-vc-addons/nectar_maps/nectar_image_with_hotspots.php:42
+#: nectar/nectar-vc-addons/nectar_maps/divider.php:94
+#: nectar/nectar-vc-addons/nectar_maps/nectar_video_lightbox.php:43
+#: nectar/nectar-vc-addons/nectar_maps/nectar_video_lightbox.php:137
+#: nectar/nectar-vc-addons/nectar_maps/gradient-text.php:35
+#: nectar/nectar-vc-addons/nectar_maps/nectar_icon.php:144
+#: nectar/nectar-vc-addons/nectar_maps/carousel.php:97
+#: nectar/nectar-vc-addons/nectar_maps/nectar_single_testimonial.php:73
+#: nectar/nectar-vc-addons/nectar_maps/toggle.php:29
+#: nectar/nectar-vc-addons/nectar_maps/pricing_column.php:65
+#: nectar/nectar-vc-addons/nectar_maps/nectar_icon_list.php:41
+msgid "Choose a color from your"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:23 nectar/meta/post-meta.php:19
+#: nectar/meta/page-meta.php:23
+msgid ""
+"Choose your header navigation logo & color scheme that will be used at the "
+"top of the page when the transparent effect is active. This option pulls "
+"from the settings \"Header Starting Dark Logo\" & \"Header Dark Text Color\" "
+"in the"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:167
+msgid ""
+"Choose your slider location below and simply drag your slides up or down - "
+"they will automatically be saved in that order."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:447 nectar/meta/page-meta.php:268
+msgid ""
+"Chooseing this option will allow your header to always remain fullscreen on "
+"all devices/screen sizes."
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:51
+msgid "Classic Enhanced Style"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:50
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:84
+msgid "Classic Style"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:27
+msgid ""
+"Click the \"Upload\" button to begin uploading your image, followed by "
+"\"Select File\" once you have made your selection."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:214
+#: nectar/meta/nectar-slider-meta.php:263
+msgid "Color Gradient 1"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:215
+#: nectar/meta/nectar-slider-meta.php:264
+msgid "Color Gradient 2"
+msgstr ""
+
+#: template-home-2.php:291 template-home-3.php:428
+msgid "Comments"
+msgstr "Comentários"
+
+#: nectar/meta/post-meta.php:217
+msgid "Configure the various options for how your post will display"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:143
+msgid "Confirm Demo Import"
+msgstr ""
+
+#: nectar/meta/page-meta.php:313 nectar/meta/page-meta.php:327
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/post-templates/entry-quote.php:250
+#: includes/post-templates/entry-quote.php:261
+#: includes/post-templates/entry-video.php:406
+#: includes/post-templates/entry-video.php:417
+#: includes/post-templates/entry-gallery.php:322
+#: includes/post-templates/entry-gallery.php:333
+#: includes/post-templates/entry-audio.php:396
+#: includes/post-templates/entry-audio.php:407
+#: includes/post-templates/entry.php:369 includes/post-templates/entry.php:380
+#: includes/post-templates/entry-image.php:211
+#: includes/post-templates/entry-image.php:222
+msgid "Continue Reading"
+msgstr "Continue lendo"
+
+#: nectar/helpers/wpbakery-init.php:54
+msgid "Counters"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:244
+msgid "Custom Content Grid Item"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:255
+msgid "Custom Content Grid Item Content"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:347
+msgid "Custom CSS Class Name"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:133 nectar/meta/portfolio-meta.php:262
+msgid "Custom Thumbnail Image"
+msgstr ""
+
+#: nectar/helpers/page-header.php:633
+msgid "Daily Archives"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:256
+msgid "Demo Already Imported"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:119
+msgid "Demo Content"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:110
+msgid "Demo Content To Import"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:168
+msgid "Demo Imported"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:282
+#: nectar/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:284
+msgid "Demo Importer"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:191
+#: nectar/meta/nectar-slider-meta.php:240
+msgid "Desired button style"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:205
+#: nectar/meta/nectar-slider-meta.php:254
+msgid "Desired color"
+msgstr ""
+
+#: nectar/meta/page-meta.php:306
+msgid "Disable Chance For Particle Explosion"
+msgstr ""
+
+#: nectar/meta/page-meta.php:101
+msgid "Disable On Mobile"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:15 nectar/meta/post-meta.php:11
+#: nectar/meta/page-meta.php:8
+msgid "Disable Transparency From Navigation"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:16
+msgid "Display your most popular posts."
+msgstr ""
+
+#: nectar/helpers/redux-salient.php:88
+msgid "documentation"
+msgstr ""
+
+#: nectar/meta/page-meta.php:119
+msgid "Dot Navigation"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:28
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:103
+msgid "Edit Project Attribute"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:79
+msgid "Edit Project Category"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:32 nectar/helpers/home-slider.php:33
+msgid "Edit Slide"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:61
+msgid "Edit Slider Location"
+msgstr ""
+
+#: comments.php:95
+msgid "Email"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:536 nectar/meta/post-meta.php:168
+#: nectar/meta/home-slider-meta.php:103
+msgid "Embedded Code"
+msgstr ""
+
+#: nectar/meta/page-meta.php:95
+msgid "Enable this to add anchors into your URL for each row."
+msgstr ""
+
+#: nectar/helpers/redux-salient.php:87
+msgid ""
+"Ensure that you have all required plugins installed & activated for the demo "
+"you wish to import before confirming the import."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:183
+#: nectar/meta/nectar-slider-meta.php:232
+msgid "Enter a URL here."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:280
+msgid ""
+"Enter in an embed code from Youtube or Vimeo that will be used to display "
+"your video in a popup. (You can also use the WordPress video shortcode)"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:480 nectar/meta/page-meta.php:282
+msgid "Enter in the page header subtitle"
+msgstr ""
+
+#: nectar/meta/page-meta.php:275
+msgid "Enter in the page header title"
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:22
+msgid "Enter in the slide caption. (should be fairly short)"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:175
+#: nectar/meta/nectar-slider-meta.php:224
+msgid "Enter the text for your button here."
+msgstr ""
+
+#: nectar/meta/page-meta.php:300
+msgid ""
+"Enter your desired autorotation time in milliseconds e.g. \"5000\". Leaving "
+"this blank will disable the functionality."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:244
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:335
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:174 nectar/meta/portfolio-meta.php:304
+msgid "External Project URL"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:314
+msgid "Extra Class Name"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:211
+#: nectar/meta/nectar-slider-meta.php:260
+msgid "Extra Color #1"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:212
+#: nectar/meta/nectar-slider-meta.php:261
+msgid "Extra Color #2"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:213
+#: nectar/meta/nectar-slider-meta.php:262
+msgid "Extra Color #3"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:46
+msgid "Extra Content"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:172
+#: includes/custom-widgets/recent-posts-extra-widget.php:138
+#: includes/custom-widgets/recent-posts-extra-widget.php:138
+msgid "Featured Image Left"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:86
+msgid "Featured Image Left Style"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:348
+msgid ""
+"For advanced users with css knowledge - use this to add an a specific class "
+"onto your project that can be used to target it in any portfolio element to "
+"add custom styling."
+msgstr ""
+
+#: nectar/helpers/redux-salient.php:87
+msgid ""
+"For demos that require the WooCommerce plugin - do not forget to run the"
+msgstr ""
+
+#: nectar/meta/page-meta.php:15
+msgid "Force Transparency On Navigation"
+msgstr ""
+
+#: nectar/options/fields/color_gradient/field_color_gradient.php:28
+#: nectar/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr "De:"
+
+#: nectar/meta/portfolio-meta.php:122 nectar/meta/portfolio-meta.php:233
+msgid "Full Width Portfolio Item Layout"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:446 nectar/meta/page-meta.php:267
+msgid "Fullscreen Height"
+msgstr ""
+
+#: nectar/meta/post-meta.php:63
+msgid "Gallery Configuration"
+msgstr ""
+
+#: nectar/meta/post-meta.php:45
+msgid "Gallery Settings"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:211 nectar/meta/post-meta.php:70
+msgid "Gallery Slider"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:55
+msgid "General"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_horizontal_list_item.php:259
+#: nectar/nectar-vc-addons/nectar_maps/flip-box.php:118
+#: nectar/nectar-vc-addons/nectar_maps/tabbed_section.php:108
+#: nectar/nectar-vc-addons/nectar_maps/testimonial_slider.php:49
+#: nectar/nectar-vc-addons/nectar_maps/testimonial_slider.php:66
+#: nectar/nectar-vc-addons/nectar_maps/recent_posts.php:194
+#: nectar/nectar-vc-addons/nectar_maps/bar.php:45
+#: nectar/nectar-vc-addons/nectar_maps/fancy_box.php:144
+#: nectar/nectar-vc-addons/nectar_maps/milestone.php:86
+#: nectar/nectar-vc-addons/nectar_maps/fancy-ul.php:885
+#: nectar/nectar-vc-addons/nectar_maps/nectar_btn.php:78
+#: nectar/nectar-vc-addons/nectar_maps/nectar_btn.php:97
+#: nectar/nectar-vc-addons/nectar_maps/team_member.php:187
+#: nectar/nectar-vc-addons/nectar_maps/fancy-title.php:50
+#: nectar/nectar-vc-addons/nectar_maps/text-with-icon.php:883
+#: nectar/nectar-vc-addons/nectar_maps/nectar_image_with_hotspots.php:42
+#: nectar/nectar-vc-addons/nectar_maps/divider.php:94
+#: nectar/nectar-vc-addons/nectar_maps/nectar_video_lightbox.php:43
+#: nectar/nectar-vc-addons/nectar_maps/nectar_video_lightbox.php:137
+#: nectar/nectar-vc-addons/nectar_maps/gradient-text.php:35
+#: nectar/nectar-vc-addons/nectar_maps/nectar_icon.php:144
+#: nectar/nectar-vc-addons/nectar_maps/carousel.php:97
+#: nectar/nectar-vc-addons/nectar_maps/nectar_single_testimonial.php:73
+#: nectar/nectar-vc-addons/nectar_maps/toggle.php:29
+#: nectar/nectar-vc-addons/nectar_maps/pricing_column.php:65
+#: nectar/nectar-vc-addons/nectar_maps/nectar_icon_list.php:41
+msgid "globally defined color scheme"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:95
+msgid "Heading"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:378 nectar/meta/post-meta.php:277
+msgid "Here you can configure how your page header will appear. "
+msgstr ""
+
+#: nectar/meta/page-meta.php:177
+msgid ""
+"Here you can configure how your page header will appear. For a full width "
+"background image behind your header text, simply upload the image below. To "
+"have a standard header just fill out the fields below and don't upload an "
+"image."
+msgstr ""
+
+#: nectar/meta/page-meta.php:395
+msgid "Here you can configure which categories will display in your portfolio."
+msgstr ""
+
+#: nectar/meta/page-meta.php:45
+msgid "Here you can configure your page fullscreen rows"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:57
+msgid "Hero Section"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:140 nectar/meta/portfolio-meta.php:269
+msgid "Hide Featured Image/Video on Single Project Page?"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:188
+msgid "Highest Comments"
+msgstr "Melhores comentários"
+
+#: includes/custom-widgets/popular-posts.php:153
+#: includes/custom-widgets/popular-posts.php:187
+#: includes/custom-widgets/popular-posts.php:187
+msgid "Highest Views"
+msgstr ""
+
+#: includes/header-search.php:50
+msgid "Hit enter to search or ESC to close"
+msgstr ""
+
+#: nectar/helpers/home-slider.php:36 nectar/helpers/home-slider.php:43
+msgid "Home Slider"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:288 nectar/meta/page-meta.php:314
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:169
+#: includes/custom-widgets/recent-posts-extra-widget.php:136
+#: includes/custom-widgets/recent-posts-extra-widget.php:136
+msgid "Hover Featured Image"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:170
+msgid "Hover Featured Image Gradient And Counter"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:440 nectar/meta/post-meta.php:265
+#: nectar/meta/page-meta.php:261
+msgid ""
+"How tall do you want your header? Don't include \"px\" in the string. e.g. "
+"350 This only applies when you are using an image/bg color."
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themenectar"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:56
+msgid "Icons"
+msgstr ""
+
+#: nectar/meta/post-meta.php:169
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Vimeo or "
+"Youtube embed code here."
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:104
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Vimeo or "
+"Youtube embed code here. Embeds work worse with the parallax effect, but if "
+"you must use this, Vimeo is recommended. "
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:537
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Youtube or "
+"Vimeo embed code here. The width should be a minimum of 670px with any "
+"height."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:103
+msgid "If you have a caption for your slide, enter it here"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:509
+msgid "If you have a video, please fill out the fields below."
+msgstr ""
+
+#: nectar/helpers/redux-salient.php:88
+msgid "if you run into trouble importing a demo."
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:8
+msgid ""
+"If you want a full width header with background image, please fill out the "
+"fields below."
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:76
+msgid ""
+"If you want to feature a video in this slide, please fill out the fields "
+"below. Your video & image should be in a 16:9 aspect ratio."
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:29
+msgid ""
+"If you would like a button to appear below your caption, please enter the "
+"text for it here."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:62
+msgid ""
+"If you would like a slight texture overlay on your background, activate this "
+"option."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:110
+msgid ""
+"If you would like to add a semi transparent background to your caption, "
+"activate this option."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:315
+msgid ""
+"If you would like to enter a custom class name to this slide for css "
+"purposes, enter it here."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:134 nectar/meta/portfolio-meta.php:263
+msgid ""
+"If you would like to have a separate thumbnail for your portfolio item, "
+"upload it here. If left blank, a cropped version of your featured image will "
+"be automatically used instead. The recommended dimensions are 600px by 403px."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:433 nectar/meta/post-meta.php:291
+msgid ""
+"If you would like your header to have a parallax scroll effect check this "
+"box."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:190 nectar/meta/portfolio-meta.php:320
+msgid ""
+"If you would like your project to display a small excerpt of text under the "
+"title in portfolio element, enter it here."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:175 nectar/meta/portfolio-meta.php:305
+msgid ""
+"If you would like your project to link to a custom location, enter it here "
+"(remember to include \"http://\")"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:219 nectar/helpers/nectar-slider.php:271
+#: nectar/helpers/home-slider.php:146 nectar/helpers/home-slider.php:183
+msgid "Image"
+msgstr "Imagem"
+
+#: nectar/meta/portfolio-meta.php:530 nectar/meta/post-meta.php:162
+#: nectar/meta/home-slider-meta.php:97
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection. Only applies to self hosted videos."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:164
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:185
+msgid "Import Demo"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:187
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:503
+msgid "Imported"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:506
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/post-templates/entry-quote.php:151
+#: includes/post-templates/entry-video.php:315
+#: includes/post-templates/entry-gallery.php:239
+#: includes/post-templates/entry-audio.php:303
+#: includes/post-templates/entry-link.php:148
+#: includes/post-templates/entry.php:302
+#: includes/post-templates/entry-image.php:144
+msgid "In"
+msgstr "Em"
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:48
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:83
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:156
+msgid "Insert Down Arrow That Leads to Content Below?"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:55
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:492
+msgid "Install Now"
+msgstr ""
+
+#: comments.php:27
+msgid "Join the discussion"
+msgstr "Juntar-se"
+
+#: comments.php:60
+msgid "Leave a Reply"
+msgstr "Deixe um comentário"
+
+#: comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deixe um comentário para %s"
+
+#: nectar/meta/post-meta.php:118
+msgid "Link Settings"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_slider.php:22
+msgid "Link to Nectar Slider"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:163
+msgid "Link Type"
+msgstr ""
+
+#: nectar/meta/post-meta.php:125
+msgid "Link URL"
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Conectado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" "
+"title=\"Desconectar desta conta\">Sair?</a>"
+
+#: nectar/love/nectar-love.php:136 nectar/love/nectar-love.php:138
+msgid "Love"
+msgstr "Curtido"
+
+#: nectar/love/nectar-love.php:119
+msgid "Love this"
+msgstr "Curtir"
+
+#: nectar/love/nectar-love.php:138
+msgid "Loves"
+msgstr "Curtidas"
+
+#: nectar/meta/home-slider-meta.php:82
+msgid "M4V File URL"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:58
+msgid "Map"
+msgstr "Mapa"
+
+#: nectar/meta/portfolio-meta.php:160 nectar/meta/portfolio-meta.php:289
+msgid "Masonry Content Position"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:147 nectar/meta/portfolio-meta.php:276
+#: nectar/meta/post-meta.php:223
+msgid "Masonry Item Sizing"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:49
+msgid "Material Style"
+msgstr ""
+
+#: nectar/nectar-vc-addons/vc_templates/page_submenu.php:11
+msgid "Menu"
+msgstr ""
+
+#: nectar/helpers/nav-menus.php:185
+msgid "Menu Item Style"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:52
+msgid "Meta Overlaid Style"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:171
+#: includes/custom-widgets/recent-posts-extra-widget.php:137
+#: includes/custom-widgets/recent-posts-extra-widget.php:137
+msgid "Minimal Counter"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_blog.php:85
+msgid "Minimal Style"
+msgstr ""
+
+#: nectar/helpers/page-header.php:638
+msgid "Monthly Archives"
+msgstr ""
+
+#: nectar/helpers/page-header.php:637
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: taxonomy-project-type.php:259 template-home-1.php:223
+#: template-portfolio.php:348 template-home-3.php:230
+#: taxonomy-project-attributes.php:233
+msgid "More Details"
+msgstr "Mais detalhes"
+
+#: template-home-1.php:84 template-home-2.php:85 template-home-4.php:86
+#: template-home-3.php:87
+msgid "More Info"
+msgstr "Mais informações"
+
+#: nectar/woo/quick-view.php:177
+msgid "More Information"
+msgstr "Mais informações"
+
+#: includes/partials/single-post/author-bio.php:52
+#: includes/partials/single-post/author-bio-ascend-skin.php:42
+msgid "More posts by"
+msgstr "Mais posts de"
+
+#: nectar/meta/post-meta.php:190
+msgid "MP3 File URL"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:515 nectar/meta/post-meta.php:147
+msgid "MP4 File URL"
+msgstr ""
+
+#: comments.php:55
+msgid "My comment is.."
+msgstr "Meu comentário..."
+
+#: comments.php:89
+msgid "Name"
+msgstr "Nome"
+
+#: includes/custom-widgets/popular-posts.php:19
+msgid "Nectar Popular Posts"
+msgstr ""
+
+#: includes/custom-widgets/recent-posts-extra-widget.php:17
+msgid "Nectar Recent Posts Extra"
+msgstr ""
+
+#: nectar/helpers/shortcodes.php:60
+msgid "Nectar Shortcodes"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:35 nectar/helpers/nectar-slider.php:42
+msgid "Nectar Slider"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:430
+msgid ""
+"Nectar Slider Post Type Disabled - please reanble in the Salient options "
+"panel > General Settings > Toggle Theme Features tab."
+msgstr ""
+
+#: nectar/helpers/portfolio.php:106
+msgid "New Project Attribute"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:64
+msgid "New Slider Location"
+msgstr ""
+
+#: nectar/helpers/pagination.php:178 nectar/helpers/woocommerce.php:285
+msgid "Next"
+msgstr "Próximo"
+
+#: nectar/helpers/pagination.php:128 nectar/helpers/blog.php:293
+#: nectar/helpers/blog.php:318
+msgid "Next Post"
+msgstr "Próximo post"
+
+#: nectar/helpers/portfolio.php:216 nectar/helpers/portfolio.php:328
+#: nectar/helpers/portfolio.php:352 nectar/helpers/portfolio.php:365
+#: nectar/helpers/portfolio.php:415 nectar/helpers/portfolio.php:432
+msgid "Next Project"
+msgstr ""
+
+#: template-home-2.php:291 template-home-3.php:428 comments.php:27
+#: includes/post-templates/entry-aside.php:116
+#: includes/post-templates/entry-video.php:604
+#: includes/post-templates/entry-gallery.php:521
+#: includes/post-templates/entry-audio.php:570
+#: includes/post-templates/entry.php:563
+#: includes/post-templates/entry-image.php:315
+#: nectar/helpers/page-header.php:298 nectar/helpers/page-header.php:311
+#: includes/partials/single-post/post-meta-bar-ascend-skin.php:36
+#: includes/partials/single-post/post-header-no-img-regular.php:81
+#: includes/partials/single-post/post-header-no-img-regular.php:91
+#: includes/partials/single-post/post-header-no-img-fullscreen.php:114
+msgid "No Comments"
+msgstr "Sem comentários"
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:198
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:513
+msgid "No Title"
+msgstr "Sem título"
+
+#: includes/custom-widgets/recent-posts-extra-widget.php:167
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:163
+msgid "Number Of Posts:"
+msgstr ""
+
+#: includes/custom-widgets/recent-projects-widget.php:153
+msgid "Number of projects to show:"
+msgstr ""
+
+#: nectar/meta/meta-config.php:307
+msgid "Off"
+msgstr ""
+
+#: nectar/meta/post-meta.php:197
+msgid "OGA File URL"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:522 nectar/meta/post-meta.php:154
+#: nectar/meta/home-slider-meta.php:89
+msgid "OGV File URL"
+msgstr ""
+
+#: nectar/meta/meta-config.php:306
+msgid "On"
+msgstr ""
+
+#: template-home-2.php:291 template-home-3.php:428 comments.php:27
+msgid "One Comment"
+msgstr "Um comentário"
+
+#: includes/post-templates/entry-aside.php:116
+#: includes/post-templates/entry-video.php:604
+#: includes/post-templates/entry-gallery.php:521
+#: includes/post-templates/entry-audio.php:570
+#: includes/post-templates/entry.php:563
+#: includes/post-templates/entry-image.php:315
+#: nectar/helpers/page-header.php:298 nectar/helpers/page-header.php:311
+#: includes/partials/single-post/post-meta-bar-ascend-skin.php:36
+#: includes/partials/single-post/post-header-no-img-regular.php:81
+#: includes/partials/single-post/post-header-no-img-regular.php:91
+#: includes/partials/single-post/post-header-no-img-fullscreen.php:114
+msgid "One Comment "
+msgstr "Um comentário"
+
+#: nectar/redux-framework/ReduxCore/templates/panel/header.tpl.php:73
+msgid "Options Panel"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:218 nectar/helpers/nectar-slider.php:270
+#: nectar/helpers/home-slider.php:145 nectar/helpers/home-slider.php:182
+msgid "Order"
+msgstr ""
+
+#: nectar/meta/page-meta.php:87
+msgid "Overall BG Color"
+msgstr ""
+
+#: search.php:99 nectar/assets/functions/ajax-search/wp-search-suggest.php:74
+msgid "Page"
+msgstr "Página"
+
+#: nectar/meta/page-meta.php:143
+msgid "Page Footer"
+msgstr ""
+
+#: nectar/meta/page-meta.php:44
+msgid "Page Full Screen Rows"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:465 nectar/meta/post-meta.php:310
+#: nectar/meta/page-meta.php:352
+msgid "Page Header Background Color"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:486 nectar/meta/post-meta.php:317
+#: nectar/meta/page-meta.php:359
+msgid "Page Header Font Color"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:439 nectar/meta/post-meta.php:264
+#: nectar/meta/page-meta.php:260
+msgid "Page Header Height"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:425 nectar/meta/post-meta.php:283
+#: nectar/meta/page-meta.php:237
+msgid "Page Header Image"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:472 nectar/meta/page-meta.php:366
+msgid "Page Header Overlay Color"
+msgstr ""
+
+#: nectar/meta/page-meta.php:176
+msgid "Page Header Settings"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:479 nectar/meta/page-meta.php:281
+msgid "Page Header Subtitle"
+msgstr ""
+
+#: nectar/meta/page-meta.php:274
+msgid "Page Header Title"
+msgstr ""
+
+#: 404.php:49
+msgid "Page Not Found"
+msgstr "Página não encontrada"
+
+#: nectar/meta/page-meta.php:244
+msgid "Parallax Header"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:432 nectar/meta/post-meta.php:290
+msgid "Parallax Header?"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:27
+msgid "Parent Portfolio Item"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:181 nectar/meta/portfolio-meta.php:311
+msgid "Parent Portfolio Override"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:102
+msgid "Parent Project Attribute"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:78
+msgid "Parent Project Category"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:31 nectar/helpers/home-slider.php:32
+msgid "Parent Slide"
+msgstr ""
+
+#: nectar/meta/page-meta.php:197
+msgid "Particle Images"
+msgstr ""
+
+#: nectar/helpers/blog.php:189
+msgid "Pin"
+msgstr ""
+
+#: nectar/helpers/page-header.php:345 nectar/helpers/blog.php:189
+#: nectar/helpers/blog.php:197
+#: includes/partials/single-post/fixed-social-sharing-buttons.php:46
+#: includes/partials/single-post/post-header-no-img-regular.php:122
+#: includes/partials/single-portfolio/fixed-social-sharing-buttons.php:47
+#: includes/partials/single-portfolio/sidebar.php:60
+msgid "Pin this"
+msgstr ""
+
+#: nectar/meta/post-meta.php:299 nectar/meta/page-meta.php:341
+msgid "Please choose how you would like your header background to be aligned"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:454
+msgid "Please choose how you would like your image background to be aligned"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:71
+msgid "Please choose how you would like your slides background to be aligned"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:96
+msgid "Please enter in the heading for your slide."
+msgstr ""
+
+#: nectar/meta/post-meta.php:191
+msgid "Please enter in the URL to the .mp3 file"
+msgstr ""
+
+#: nectar/meta/post-meta.php:198
+msgid "Please enter in the URL to the .ogg or .oga file"
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:36
+msgid "Please enter the URL for the button here."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:272
+msgid "Please enter your URL that will be used to link the slide."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:8
+msgid ""
+"Please fill out & configure the fileds below to create your slide. The only "
+"mandatory field is the \"Slide Image\"."
+msgstr ""
+
+#: nectar/meta/post-meta.php:97
+msgid ""
+"Please input the name of who your quote is from. Is left blank the post "
+"title will be used."
+msgstr ""
+
+#: nectar/meta/post-meta.php:126
+msgid "Please input the URL for your link. I.e. http://www.themenectar.com"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:164
+msgid "Please select how you would like to link your slide."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:385 nectar/meta/nectar-slider-meta.php:16
+#: nectar/meta/page-meta.php:185
+msgid "Please select the background type you would like to use for your slide."
+msgstr ""
+
+#: nectar/meta/page-meta.php:289
+msgid "Please select your desired text effect"
+msgstr ""
+
+#: search.php:164
+msgid "Please try again with different keywords."
+msgstr ""
+
+#: nectar/meta/post-meta.php:104
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: nectar/meta/post-meta.php:148
+msgid "Please upload the .m4v video file."
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:83
+msgid "Please upload the .m4v video file. You must include both formats."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:516
+msgid "Please upload the .mp4 video file."
+msgstr ""
+
+#: nectar/meta/post-meta.php:155
+msgid "Please upload the .ogv video file"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:523
+msgid "Please upload the .ogv video file."
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:90
+msgid "Please upload the .ogv video file. You must include both formats."
+msgstr ""
+
+#: nectar/meta/post-meta.php:46
+msgid ""
+"Please use the sections that have appeared under the Featured Image block "
+"labeled \"Second Slide, Third Slide...\" etc to add images to your gallery."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:47
+msgid ""
+"Please use this section to place any extra content you would like to appear "
+"in the main content area under your portfolio item. (The above default "
+"editor is only used to populate your items sidebar content)"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:185
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:188
+msgid "Please Wait..."
+msgstr "Por favor, espere..."
+
+#: includes/custom-widgets/popular-posts.php:185
+msgid "Popular Posts Order By:"
+msgstr "Ordenar posts populares por:"
+
+#: nectar/helpers/portfolio.php:23 nectar/helpers/portfolio.php:26
+msgid "Portfolio"
+msgstr ""
+
+#: nectar/meta/page-meta.php:394
+msgid "Portfolio Display Settings"
+msgstr ""
+
+#: search.php:121 nectar/helpers/portfolio.php:24
+#: nectar/assets/functions/ajax-search/wp-search-suggest.php:78
+msgid "Portfolio Item"
+msgstr ""
+
+#: nectar/meta/post-meta.php:216
+msgid "Post Configuration"
+msgstr ""
+
+#: nectar/meta/post-meta.php:276
+msgid "Post Header Settings"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:181
+msgid "Posts Published Within 1 Year"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:180
+msgid "Posts Published Within 30 Days"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:179
+msgid "Posts Published Within 7 Days"
+msgstr ""
+
+#: includes/header-search.php:48
+msgid "Press enter to begin your search"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:416 nectar/meta/portfolio-meta.php:529
+#: nectar/meta/post-meta.php:161 nectar/meta/nectar-slider-meta.php:54
+#: nectar/meta/page-meta.php:228 nectar/meta/home-slider-meta.php:96
+msgid "Preview Image"
+msgstr "Imagem anterior"
+
+#: nectar/helpers/pagination.php:177 nectar/helpers/woocommerce.php:284
+msgid "Previous"
+msgstr "Anterior"
+
+#: nectar/helpers/pagination.php:128 nectar/helpers/blog.php:268
+msgid "Previous Post"
+msgstr "Post anterior"
+
+#: nectar/helpers/portfolio.php:215 nectar/helpers/portfolio.php:294
+#: nectar/helpers/portfolio.php:316 nectar/helpers/portfolio.php:364
+#: nectar/helpers/portfolio.php:390 nectar/helpers/portfolio.php:426
+msgid "Previous Project"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:60
+msgid "Pricing"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:210
+#: nectar/meta/nectar-slider-meta.php:259
+msgid "Primary Color"
+msgstr ""
+
+#: search.php:134 nectar/assets/functions/ajax-search/wp-search-suggest.php:88
+msgid "Product"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:59 nectar/helpers/portfolio.php:48
+msgid "Project"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:326
+msgid "Project Accent Color"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:99
+msgid "Project Attribute"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:98 nectar/helpers/portfolio.php:107
+msgid "Project Attributes"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:74 nectar/helpers/portfolio.php:82
+msgid "Project Categories"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:75
+msgid "Project Category"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:115 nectar/meta/portfolio-meta.php:226
+msgid "Project Configuration"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:340
+msgid "Project Date/Custom excerpt Color"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:189 nectar/meta/portfolio-meta.php:319
+msgid "Project Excerpt"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:377
+msgid "Project Header Settings"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:333
+msgid "Project Title Color"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:46
+msgid "Quantity: "
+msgstr ""
+
+#: nectar/woo/quick-view.php:40
+msgid "Quick View"
+msgstr ""
+
+#: nectar/meta/post-meta.php:96
+msgid "Quote Author"
+msgstr "Citar autor"
+
+#: nectar/meta/post-meta.php:103
+msgid "Quote Content"
+msgstr "Citar o conteúdo"
+
+#: nectar/meta/post-meta.php:89
+msgid "Quote Settings"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:189
+msgid "Re-Import"
+msgstr ""
+
+#: includes/post-templates/entry-status.php:124
+#: includes/post-templates/entry-aside.php:110
+#: includes/post-templates/entry-quote.php:271
+#: includes/post-templates/entry-quote.php:362
+#: includes/post-templates/entry-video.php:285
+#: includes/post-templates/entry-video.php:431
+#: includes/post-templates/entry-video.php:613
+#: includes/post-templates/entry-video.php:647
+#: includes/post-templates/entry-video.php:705
+#: includes/post-templates/entry-gallery.php:347
+#: includes/post-templates/entry-gallery.php:531
+#: includes/post-templates/entry-gallery.php:564
+#: includes/post-templates/entry-gallery.php:577
+#: includes/post-templates/entry-audio.php:261
+#: includes/post-templates/entry-audio.php:420
+#: includes/post-templates/entry-audio.php:581
+#: includes/post-templates/entry-audio.php:614
+#: includes/post-templates/entry-audio.php:652
+#: includes/post-templates/entry.php:260 includes/post-templates/entry.php:394
+#: includes/post-templates/entry.php:576 includes/post-templates/entry.php:610
+#: includes/post-templates/entry.php:624
+#: includes/post-templates/entry-image.php:235
+#: includes/post-templates/entry-image.php:324
+#: includes/post-templates/entry-image.php:332
+#: includes/post-templates/entry-image.php:344
+msgid "Read More"
+msgstr "Leia mais"
+
+#: includes/custom-widgets/recent-posts-extra-widget.php:39
+msgid "Recent Posts Extra"
+msgstr ""
+
+#: includes/custom-widgets/recent-projects-widget.php:49
+#: includes/custom-widgets/recent-projects-widget.php:73
+msgid "Recent Projects"
+msgstr "Projetos recentes"
+
+#: nectar/helpers/blog.php:403
+msgid "Recommended For You"
+msgstr "Recomendado para você"
+
+#: nectar/helpers/blog.php:387 nectar/helpers/blog.php:392
+msgid "Related Posts"
+msgstr "Posts relacionados"
+
+#: nectar/meta/nectar-slider-meta.php:118
+#: nectar/meta/nectar-slider-meta.php:134
+msgid "Releative to the site content container"
+msgstr ""
+
+#: nectar/meta/meta-config.php:114
+msgid "Remove Media"
+msgstr ""
+
+#: nectar/meta/category-meta.php:27 nectar/meta/category-meta.php:40
+#: nectar/meta/category-meta.php:137 nectar/meta/meta-config.php:72
+#: nectar/options/fields/upload/field_upload.php:31
+#: nectar/redux-framework/ReduxCore/inc/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:48
+msgid "Required Plugins"
+msgstr "Requer pluguins"
+
+#: search.php:44
+msgid "Results For"
+msgstr "Resultados para"
+
+#: search.php:47
+msgid "results found"
+msgstr "Resultados encontrados"
+
+#: nectar/meta/page-meta.php:108
+msgid "Row BG Image Animation"
+msgstr ""
+
+#: nectar/meta/page-meta.php:132
+msgid "Row Overflow"
+msgstr ""
+
+#. Name of the theme
+msgid "Salient"
+msgstr ""
+
+#: nectar/woo/admin-notices.php:13
+msgid "salient/woocommerce/cart/cart-shipping.php"
+msgstr ""
+
+#: nectar/woo/admin-notices.php:14
+msgid "salient/woocommerce/cart/cart-totals.php"
+msgstr ""
+
+#: nectar/woo/admin-notices.php:12
+msgid "salient/woocommerce/cart/cart.php"
+msgstr ""
+
+#: nectar/woo/admin-notices.php:15
+msgid "salient/woocommerce/cart/shipping-calculator.php"
+msgstr ""
+
+#: searchform.php:15 includes/header-search.php:39
+msgid "Search"
+msgstr "Pesquisa"
+
+#: searchform.php:14
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: nectar/helpers/portfolio.php:25
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:100
+msgid "Search Project Attributes"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:76
+msgid "Search Project Categories"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:59
+msgid "Search Slider Locations"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:29 nectar/helpers/home-slider.php:30
+msgid "Search Slides"
+msgstr ""
+
+#: includes/partials/header/classic-mobile-nav.php:63
+msgid "Search.."
+msgstr "Busca.."
+
+#: searchform.php:14
+msgid "Search..."
+msgstr "Busca..."
+
+#: nectar/helpers/redux-salient.php:88
+msgid "See the"
+msgstr ""
+
+#: nectar/meta/page-meta.php:133
+msgid ""
+"Select how you would like rows to be handled that have content taller than "
+"the users window height. This only applies to desktop (mobile will "
+"automatically get scrollbars)"
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:43
+msgid "Select the alignment for your caption and button."
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_category_grid.php:124
+msgid "Select the alignment of your text content."
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_category_grid.php:137
+msgid "Select what will display under the category names."
+msgstr ""
+
+#: nectar/meta/page-meta.php:64
+msgid "Select your desired animation between rows"
+msgstr ""
+
+#: nectar/meta/page-meta.php:120
+msgid "Select your desired dot navigation style"
+msgstr ""
+
+#: nectar/meta/page-meta.php:109
+msgid "Select your desired row BG image animation"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:86
+msgid "Selected Demo"
+msgstr ""
+
+#: nectar/meta/page-meta.php:76
+msgid "Selection your desired animation speed"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:61
+msgid "Services"
+msgstr "Serviços"
+
+#: nectar/meta/page-meta.php:88
+msgid ""
+"Set your desired background color which will be seen when transitioning "
+"through rows. Defaults to #333333"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:466 nectar/meta/post-meta.php:311
+#: nectar/meta/page-meta.php:353
+msgid "Set your desired page header background color if not using an image"
+msgstr ""
+
+#: nectar/meta/page-meta.php:360
+msgid "Set your desired page header font color"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:487 nectar/meta/post-meta.php:318
+msgid ""
+"Set your desired page header font color - will only be used if using a "
+"header bg image/color"
+msgstr ""
+
+#: nectar/meta/page-meta.php:299
+msgid "Shape Autorotate Timing"
+msgstr ""
+
+#: nectar/helpers/woocommerce.php:757 nectar/helpers/blog.php:170
+#: nectar/helpers/blog.php:179 nectar/helpers/blog.php:184
+#: includes/partials/single-post/post-meta-bar-ascend-skin.php:28
+#: includes/partials/single-post/post-header-no-img-fullscreen.php:104
+#: includes/partials/single-portfolio/sidebar.php:38
+msgid "Share"
+msgstr "Compartilhar"
+
+#: nectar/helpers/page-header.php:328 nectar/helpers/page-header.php:336
+#: nectar/helpers/page-header.php:341 nectar/helpers/woocommerce.php:773
+#: nectar/helpers/woocommerce.php:778 nectar/helpers/blog.php:170
+#: nectar/helpers/blog.php:179 nectar/helpers/blog.php:184
+#: nectar/helpers/blog.php:193 nectar/helpers/blog.php:195
+#: nectar/helpers/blog.php:196
+#: includes/partials/single-post/fixed-social-sharing-buttons.php:29
+#: includes/partials/single-post/fixed-social-sharing-buttons.php:37
+#: includes/partials/single-post/fixed-social-sharing-buttons.php:42
+#: includes/partials/single-post/post-header-no-img-regular.php:105
+#: includes/partials/single-post/post-header-no-img-regular.php:113
+#: includes/partials/single-post/post-header-no-img-regular.php:118
+#: includes/partials/single-portfolio/fixed-social-sharing-buttons.php:30
+#: includes/partials/single-portfolio/fixed-social-sharing-buttons.php:38
+#: includes/partials/single-portfolio/fixed-social-sharing-buttons.php:43
+#: includes/partials/single-portfolio/sidebar.php:43
+#: includes/partials/single-portfolio/sidebar.php:51
+#: includes/partials/single-portfolio/sidebar.php:56
+msgid "Share this"
+msgstr "Compartilhar isso"
+
+#: nectar/helpers/woocommerce.php:757
+#: includes/partials/single-post/post-meta-bar-ascend-skin.php:28
+#: includes/partials/single-post/post-header-no-img-fullscreen.php:104
+#: includes/partials/single-portfolio/sidebar.php:38
+msgid "Shares"
+msgstr "Compartilhamentos"
+
+#: nectar/helpers/wpbakery-init.php:64
+msgid "Shop"
+msgstr "Loja"
+
+#: nectar/helpers/nectar-slider.php:378
+msgid "Show All "
+msgstr "Mostrar tudo"
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:409
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: nectar/helpers/blog.php:396
+msgid "Similar Posts"
+msgstr "Postagens similares"
+
+#: nectar/helpers/home-slider.php:127
+msgid "Simply drag the slide up or down and they will be saved in that order."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:431
+msgid "Site does not support widget"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:28 nectar/helpers/home-slider.php:29
+msgid "Slide"
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:42
+msgid "Slide Alignment"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:287
+#: nectar/meta/nectar-slider-meta.php:301
+msgid "Slide Content Alignment"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:117
+msgid "Slide Content Desktop Width"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:133
+msgid "Slide Content Tablet Width"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:83
+msgid "Slide Font Color"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:26 nectar/meta/home-slider-meta.php:14
+msgid "Slide Image"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:271
+msgid "Slide Link"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:7 nectar/meta/home-slider-meta.php:7
+msgid "Slide Settings"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:279
+msgid "Slide Video Popup"
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:75
+msgid "Slide Video Settings"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:58
+msgid "Slider Location"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:57 nectar/helpers/nectar-slider.php:65
+msgid "Slider Locations"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:27 nectar/helpers/home-slider.php:28
+msgid "Slides"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:245
+msgid "Solid Color Background"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:196
+msgid "Solid Color BG"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:197
+#: nectar/meta/nectar-slider-meta.php:246
+msgid "Solid Color BG W/ Tilt Hover"
+msgstr ""
+
+#: search.php:163
+msgid "Sorry, no results were found."
+msgstr "Desculpe, nenhum resultado encontrado."
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:326
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/connekt-plugin-installer/class-connekt-plugin-installer.php:235
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: template-portfolio.php:127 nectar/helpers/page-header.php:390
+#: nectar/helpers/page-header.php:589
+msgid "Sort Portfolio"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:166 nectar/helpers/home-slider.php:126
+msgid "Sort Slides"
+msgstr ""
+
+#: nectar/helpers/nav-menus.php:187
+msgid "Standard"
+msgstr ""
+
+#: includes/header-search.php:43
+msgid "Start Typing..."
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:167
+#: includes/custom-widgets/recent-posts-extra-widget.php:134
+msgid "Style:"
+msgstr ""
+
+#: comments.php:63
+msgid "Submit Comment"
+msgstr "Enviar comentário"
+
+#: nectar/helpers/page-header.php:626
+msgid "Tag"
+msgstr ""
+
+#: includes/post-templates/entry-aside.php:129
+#: includes/post-templates/entry-quote.php:280
+#: includes/post-templates/entry-quote.php:371
+#: includes/post-templates/entry-video.php:439
+#: includes/post-templates/entry-video.php:714
+#: includes/post-templates/entry-gallery.php:357
+#: includes/post-templates/entry-gallery.php:585
+#: includes/post-templates/entry-audio.php:270
+#: includes/post-templates/entry-audio.php:428
+#: includes/post-templates/entry-audio.php:662
+#: includes/post-templates/entry.php:267 includes/post-templates/entry.php:403
+#: includes/post-templates/entry.php:633
+#: includes/post-templates/entry-image.php:244
+#: includes/post-templates/entry-image.php:352
+msgid "Tags:"
+msgstr ""
+
+#: nectar/helpers/wpbakery-init.php:62
+msgid "Team"
+msgstr "Equipe"
+
+#: nectar/helpers/wpbakery-init.php:63
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: nectar/meta/page-meta.php:288
+msgid "Text Effect"
+msgstr ""
+
+#: nectar/meta/home-slider-meta.php:15
+msgid ""
+"The image should be between 1600px - 2000px in width and have a minimum "
+"height of 700px for best results. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:426 nectar/meta/post-meta.php:284
+msgid ""
+"The image should be between 1600px - 2000px wide and have a minimum height "
+"of 475px for best results."
+msgstr ""
+
+#: nectar/meta/page-meta.php:238
+msgid ""
+"The image should be between 1600px - 2000px wide and have a minimum height "
+"of 475px for best results. Click \"Browse\" to upload and then \"Insert into "
+"Post\"."
+msgstr ""
+
+#: includes/custom-widgets/recent-posts-extra-widget.php:16
+msgid "The most recent posts on your site, including post thumbnails & dates."
+msgstr ""
+
+#: includes/custom-widgets/recent-projects-widget.php:48
+msgid "The most recent projects on your site."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:128
+msgid "Theme Option Settings"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeNectar"
+msgstr ""
+
+#: nectar/woo/admin-notices.php:10
+msgid ""
+"There are some outdated WooCommerce template files in your salient theme "
+"directory that are likely lingering around from a previous version of the "
+"theme. Salient no longer includes any files in the salient/woocommerce/cart "
+"directory. Please ensure none of the following files are present in your "
+"theme directory (wp-content/themes/salient)."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:182 nectar/meta/portfolio-meta.php:312
+msgid ""
+"This allows you to manually assign where your \"Back to all\" button will "
+"take the user on your single portfolio item pages."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:84
+msgid ""
+"This gives you an easy way to make sure your text is visible regardless of "
+"the background."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:119
+msgid "This includes all pages, posts and other content shown in the demo."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:157
+msgid ""
+"This is particularly useful when using tall sliders to let the user know "
+"there's content underneath."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:417 nectar/meta/nectar-slider-meta.php:55
+#: nectar/meta/page-meta.php:229
+msgid ""
+"This is the image that will be seen in place of your video on mobile devices "
+"& older browsers before your video is played."
+msgstr ""
+
+#: nectar/meta/page-meta.php:144
+msgid ""
+"This option allows you to define what will be used for the footer after your "
+"fullscreen rows"
+msgstr ""
+
+#: nectar/meta/post-meta.php:249
+msgid ""
+"This will add a slight overlay onto your header which will allow lighter "
+"text to be easily visible on light images "
+msgstr ""
+
+#: nectar/meta/post-meta.php:256
+msgid "This will add a subtle shadow at the bottom of your header"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:245
+msgid ""
+"This will all you to place custom content using the above editor that will "
+"appear in your portfolio grid. By using this option the single project page "
+"will be disabled, however you can still link the item to a custom URL if "
+"desired."
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:150
+msgid "This will be applied ontop on your BG image (if supplied)."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:473 nectar/meta/page-meta.php:367
+msgid "This will be applied ontop on your page header BG image (if supplied)."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:327 nectar/meta/portfolio-meta.php:334
+#: nectar/meta/portfolio-meta.php:341
+msgid ""
+"This will be used in applicable project styles in the portfolio thumbnail "
+"view."
+msgstr ""
+
+#: nectar/meta/page-meta.php:53
+msgid ""
+"This will cause all WPBakery Page Builder rows to be fullscreen. Some "
+"functionality and options within the WPBakery Page Builder will be changed "
+"when this is active."
+msgstr ""
+
+#: nectar/meta/page-meta.php:253
+msgid ""
+"This will cause your header to have a 3d box roll on scroll. (deactivated "
+"for boxed layouts)"
+msgstr ""
+
+#: nectar/meta/page-meta.php:245
+msgid "This will cause your header to have a parallax scroll effect."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:139
+msgid ""
+"This will only add new widgets - your existing widgets will be retained."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:148 nectar/meta/portfolio-meta.php:277
+#: nectar/meta/post-meta.php:224
+msgid ""
+"This will only be used if you choose to display your portfolio in the "
+"masonry format"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:161 nectar/meta/portfolio-meta.php:290
+msgid ""
+"This will only be used on project styles which show the content overlaid "
+"before hover"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:128
+msgid "This will override your current theme option settings."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:123 nectar/meta/portfolio-meta.php:234
+msgid ""
+"This will remove the sidebar and allow you to use fullwidth sections and "
+"sliders"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:212
+msgid ""
+"This will turn all default WordPress galleries attached to this post into a "
+"simple slider."
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:176
+msgid "Timeline:"
+msgstr ""
+
+#: includes/custom-widgets/popular-posts.php:158
+#: includes/custom-widgets/recent-projects-widget.php:150
+#: includes/custom-widgets/recent-posts-extra-widget.php:130
+msgid "Title:"
+msgstr "Título:"
+
+#: nectar/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr "Para:"
+
+#: nectar/meta/portfolio-meta.php:22 nectar/meta/post-meta.php:18
+#: nectar/meta/page-meta.php:22
+msgid "Transparent Header Navigation Color"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:199
+#: nectar/meta/nectar-slider-meta.php:248
+msgid "Transparent W/ Solid BG Hover"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:198
+#: nectar/meta/nectar-slider-meta.php:247
+msgid "Transparent With Border"
+msgstr ""
+
+#: nectar/helpers/blog.php:174
+msgid "Tweet"
+msgstr ""
+
+#: nectar/helpers/page-header.php:332 nectar/helpers/blog.php:174
+#: nectar/helpers/blog.php:194
+#: includes/partials/single-post/fixed-social-sharing-buttons.php:33
+#: includes/partials/single-post/post-header-no-img-regular.php:109
+#: includes/partials/single-portfolio/fixed-social-sharing-buttons.php:34
+#: includes/partials/single-portfolio/sidebar.php:47
+msgid "Tweet this"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:29
+msgid "Update Portfolio Item"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:104
+msgid "Update Project Attribute"
+msgstr ""
+
+#: nectar/helpers/portfolio.php:80
+msgid "Update Project Category"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:33 nectar/helpers/home-slider.php:34
+msgid "Update Slide"
+msgstr ""
+
+#: nectar/helpers/nectar-slider.php:62
+msgid "Update Slider Location"
+msgstr ""
+
+#: nectar/meta/category-meta.php:26 nectar/meta/category-meta.php:39
+#: nectar/meta/category-meta.php:136 nectar/meta/meta-config.php:71
+#: nectar/options/fields/upload/field_upload.php:30
+#: nectar/redux-framework/ReduxCore/inc/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: nectar/helpers/pagination.php:57
+#, php-format
+msgid "Use commas instead of %s to separate excluded categories."
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:256
+msgid ""
+"Use this to populate what will display as your project content in place of "
+"the default meta info"
+msgstr ""
+
+#: nectar/meta/nectar-slider-meta.php:302 nectar/meta/page-meta.php:328
+msgid "Vertical Alignment"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:402 nectar/meta/nectar-slider-meta.php:40
+#: nectar/meta/page-meta.php:214
+msgid "Video MP4 Upload"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:409 nectar/meta/nectar-slider-meta.php:47
+#: nectar/meta/page-meta.php:221
+msgid "Video OGV Upload"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:508 nectar/meta/post-meta.php:140
+msgid "Video Settings"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:395 nectar/meta/nectar-slider-meta.php:33
+#: nectar/meta/page-meta.php:207
+msgid "Video WebM Upload"
+msgstr ""
+
+#: includes/partials/single-post/post-header-no-img-regular.php:55
+#: includes/partials/single-post/post-header-no-img-fullscreen.php:47
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: taxonomy-project-type.php:256 template-home-1.php:220
+#: template-portfolio.php:344 template-home-3.php:227
+#: taxonomy-project-attributes.php:230
+#: nectar/nectar-vc-addons/vc_templates/vc_gallery.php:772
+#: nectar/nectar-vc-addons/vc_templates/vc_gallery.php:776
+msgid "View Larger"
+msgstr ""
+
+#: nectar/helpers/woocommerce.php:686
+msgid "was successfully added to your cart."
+msgstr ""
+
+#: nectar/helpers/portfolio.php:629
+msgid "Watch Video"
+msgstr "Assista ao vídeo"
+
+#: comments.php:102
+msgid "Website"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:454
+msgid "Widget already exists"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/inc/importer/radium-importer.php:335
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:139
+msgid "Widgets"
+msgstr ""
+
+#: nectar/redux-framework/extensions/wbc_importer/extension_wbc_importer.php:289
+msgid ""
+"Works best to import on a new install of WordPress.  If you're not using a "
+"fresh install, make sure you backup your current theme options as they will "
+"be overwritten."
+msgstr ""
+
+#: nectar/meta/post-meta.php:71
+msgid "Would you like to turn your gallery into a slider?"
+msgstr ""
+
+#: nectar/helpers/page-header.php:643
+msgid "Yearly Archives"
+msgstr ""
+
+#: nectar/helpers/page-header.php:642
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: nectar/love/nectar-love.php:122
+msgid "You already love this!"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:141 nectar/meta/portfolio-meta.php:270
+msgid ""
+"You can choose to hide your featured image/video from automatically "
+"displaying on the top of the main project page."
+msgstr ""
+
+#: nectar/meta/page-meta.php:16
+msgid ""
+"You can use this option to force your navigation header to start transparent "
+"even if it does not qualify to trigger the"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:16 nectar/meta/post-meta.php:12
+#: nectar/meta/page-meta.php:9
+msgid ""
+"You can use this option to force your navigation header to stay a solid "
+"color even if it qualifies to trigger the"
+msgstr ""
+
+#: nectar/nectar-vc-addons/nectar_maps/nectar_slider.php:20
+msgid ""
+"You currently don't have any Slider Locations setup. Please create some and "
+"add assign slides to them before using this!"
+msgstr ""
+
+#: nectar/meta/portfolio-meta.php:16 nectar/meta/post-meta.php:12
+#: nectar/meta/page-meta.php:9 nectar/meta/page-meta.php:16
+msgid "you have activated in the Salient options panel."
+msgstr ""
+
+#: nectar/helpers/blog.php:400
+msgid "You May Also Like"
+msgstr ""
+
+#: comments.php:69
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Você precisa estar <a href=\"%s\">logado</a> para postar um comentário."
