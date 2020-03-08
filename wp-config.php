@@ -29,7 +29,7 @@ define( 'DB_NAME', 'port1871_wp' );
 define( 'DB_USER', 'port1871_wp' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Er1IfUcZDr7sRwV0' );
+define( 'DB_PASSWORD', 'Er1IfUcZDr7sRwV@' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
