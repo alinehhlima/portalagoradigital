@@ -32,7 +32,7 @@ define( 'DB_USER', 'port1871_wp' );
 define( 'DB_PASSWORD', 'Er1IfUcZDr7sRwV@' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'port1871-wp.mysql.uhserver.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
